@@ -47,7 +47,7 @@ Cloto es una de las tres Moiras en la mitología griega, responsables de hilar, 
 
 ---
 
-## ✍️ Autor
+## ✍️ Autores
 
 Desarrollado como prototipo educativo por Juan Carlos Quintero y Santiago Gomez Castro 
 Repositorio en modo experimental. Agradecemos cualquier sugerencia o mejora.
